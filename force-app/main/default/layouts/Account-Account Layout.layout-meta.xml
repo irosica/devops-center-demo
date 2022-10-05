@@ -27,6 +27,10 @@
                 <behavior>Edit</behavior>
                 <field>asdsad__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TESTE__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
